@@ -1,0 +1,1 @@
+This is config-repo for spring-cloud project
